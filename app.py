@@ -1,2 +1,2 @@
-print("Hello from sample-2")
+print("Hello from Repo-1")
 print("Build Successfull")
